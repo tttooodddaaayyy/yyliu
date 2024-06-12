@@ -1,8 +1,8 @@
 # Yingying Liu 
-🌱 Currently working at Shanghai Polytechnic University, Shanghai, China 
+🌱 Currently working as an AP at Shanghai Polytechnic University, Shanghai, China 
 
-- PHD in machine learning and computer vision - UNSW 2016
-- Worked at UNSW, Fudan University, Medtronic Shanghai R&D center - 2016 to 2023
+- PHD in machine learning and computer vision - UNSW
+- Worked at UNSW, Fudan University, Medtronic Shanghai R&D center
 
 ## Research interests
 - Computer vision, machine learning, medical image analysis and computer aided diagnosis.
